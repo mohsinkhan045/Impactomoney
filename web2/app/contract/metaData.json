@@ -1,0 +1,38 @@
+{
+    "name": "Education Voucher",
+    "description": "A voucher issued by ImpacttoMoney for the purpose of education funding. This voucher is specifically designed to support educational needs and improve access to learning resources.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreiez3k37mw7utcnjbhq7uooywkmkj3pvn3cydrmjtd342sjb3wyhne",
+    "attributes": [
+      
+      {
+        "trait_type": "Voucher Issuer",
+        "value": "ImpacttoMoney"
+      },
+      {
+        "trait_type": "Voucher Type",
+        "value": "Education"
+      },
+      {
+        "trait_type": "Category",
+        "value": "Education"
+      },
+      {
+        "trait_type": "Purpose",
+        "value": "To support education"
+      },
+      {
+        "trait_type": "Amount",
+        "value": 5000
+      },
+      {
+        "trait_type": "Validity",
+        "value": "2025-12-31"
+      },
+      {
+        "trait_type": "Redeemable By",
+        "value": "Eligible Beneficiaries Only"
+      }
+    ]
+   
+  }
+  
